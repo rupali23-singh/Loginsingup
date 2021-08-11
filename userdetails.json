@@ -1,0 +1,14 @@
+{
+    "user": [
+        {
+            "Username": "rupali",
+            "Password": "Rupali12@",
+            "Profile": {
+                "description": "foodie",
+                "d_o_b": "1_3_2001",
+                "Gender": "female",
+                "Hobbies": "dancing"
+            }
+        }
+    ]
+}
